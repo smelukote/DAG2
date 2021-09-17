@@ -7,3 +7,4 @@ substitutions:
     _COMPOSER_BUCKET: us-central1-data-pipeline-c-fa0d0c3c-bucket
 options:
   logging: CLOUD_LOGGING_ONLY
+logsBucket: 'gs://mylogsbucket123'
