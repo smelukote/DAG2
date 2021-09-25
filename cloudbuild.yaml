@@ -23,7 +23,7 @@ steps:
   args:
   - -m
   - unittest
-  - python/dag_integrity_test.py
+  - tests/dag_integrity_test.py
 images: ['gcr.io/$PROJECT_ID/airflow-dags-builder:latest']
 
 # - name: gcr.io/google.com/cloudsdktool/cloud-sdk
