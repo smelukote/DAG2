@@ -1,4 +1,9 @@
 apache_airflow_backport_providers_google==2020.6.24
 apache-airflow==1.10.15
 psycopg2==2.8.5
-#mysqlclient==2.0.1
+mysqlclient==1.4.2
+jinja2==2.10.1
+werkzeug==0.15.3
+pyhive==0.6.1
+mysql-connector==2.2.9
+presto-python-client==0.7.0
